@@ -28,8 +28,9 @@ Os resultados da execução serial e paralela em CPU foram registrados no arquiv
 
 (Neste ponto, em um relatório completo, seriam apresentados gráficos e discussões detalhadas sobre os tempos de execução, escalabilidade e eficiência de cada algoritmo em CPU, com base nos dados do CSV.)
 
-## Referências
+## Link do projeto no Github e referências
 
+- Link para GitHub: https://github.com/bmatox/projeto_analise_algoritmos
 - JOCL: [http://jocl.org/](http://jocl.org/)
 - OpenCL: [https://www.khronos.org/opencl/](https://www.khronos.org/opencl/)
 
