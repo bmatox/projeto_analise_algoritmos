@@ -1,0 +1,7 @@
+Algoritmo,Arquivo,Palavra,Contagem,TempoExecucaoMs
+SerialCPU,DonQuixote-388208.txt,the,186,178
+SerialCPU,DonQuixote-388208.txt,the,186,96
+SerialCPU,DonQuixote-388208.txt,the,186,64
+ParallelCPU,DonQuixote-388208.txt,the,186,135
+ParallelCPU,DonQuixote-388208.txt,the,186,71
+ParallelCPU,DonQuixote-388208.txt,the,186,78
